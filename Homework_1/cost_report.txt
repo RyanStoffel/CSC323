@@ -1,0 +1,24 @@
+Cost Report
+===========
+
+Billing Account ID: 01689F-2FC313-8F3470
+Project ID: csc323-a-cloud-computing
+
+Itemized Costs:
+frontend-web-01: $5.84
+frontend-web-02: $5.84
+frontend-web-03: $11.68
+backend-api-01: $34.67
+backend-api-02: $69.35
+worker-node-01: $28.00
+analytics-engine: $10.40
+database-primary: $87.60
+database-replica: $43.80
+cache-redis: $87.60
+storage-backup: $29.20
+storage-fast-logs: $51.00
+job-runner-temp: $4.20
+Error: legacy-module-x is not in the catalog.
+
+Total Projected Cost: $469.18 v.s Project Budget: $50
+Status: REJECTED

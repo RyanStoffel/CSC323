@@ -1,0 +1,16 @@
+[
+    { "name": "frontend-web-01", "type": "e2-micro", "hours": 730 },
+    { "name": "frontend-web-02", "type": "e2-micro", "hours": 730 },
+    { "name": "frontend-web-03", "type": "e2-small", "hours": 730 },
+    { "name": "backend-api-01",  "type": "n1-standard-1", "hours": 730 },
+    { "name": "backend-api-02",  "type": "n1-standard-2", "hours": 730 },
+    { "name": "worker-node-01",  "type": "n1-highcpu-4", "hours": 200 },
+    { "name": "analytics-engine","type": "c2-standard-4", "hours": 50 },
+    { "name": "database-primary","type": "db-custom-large", "hours": 730 },
+    { "name": "database-replica","type": "db-custom-small", "hours": 730 },
+    { "name": "cache-redis",     "type": "n1-highmem-2", "hours": 730 },
+    { "name": "storage-backup",  "type": "pd-standard", "hours": 730 },
+    { "name": "storage-fast-logs","type": "pd-ssd", "hours": 300 },
+    { "name": "job-runner-temp", "type": "t2d-standard-1", "hours": 100 },
+    { "name": "legacy-module-x", "type": "invalid-type-legacy", "hours": 24 }
+  ]
